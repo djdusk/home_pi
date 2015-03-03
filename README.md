@@ -1,2 +1,5 @@
 # home_pi
-Mainly for motion alarm, remote controller, and plant watering system.
+Goal:
+Home security using PIR motion sensor and camera.
+Receiving and sending IR signals.
+Plant watering system.
