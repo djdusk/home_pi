@@ -17,7 +17,8 @@ import os # get the PID (Process Identifier) to kill this script
 #import commands # for CPU/GPU temperature
 
 def alarm_pid():
-    os.getpid()
+    pid = os.getpid()
+    return pid
 
 #def get_cpu_temp():
     #tempFile = open( "/sys/class/thermal/thermal_zone0/temp" )

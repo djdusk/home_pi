@@ -1,7 +1,6 @@
-import home_alarm
+import home_alarm from alarm_pid
 
-def temp_humidity():
-  print 'temperature is yadayada'
+print alarm_pid()
     
-if __name__ == '__main__':
-  print home_alarm.alarm_pid()
+'if __name__ == '__main__':
+'  print home_alarm.alarm_pid()
